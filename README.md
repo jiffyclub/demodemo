@@ -21,3 +21,5 @@ A demo repo of demo goodness.
 Col1 | Very very long head | Very very long head|
 -----|:-------------------:|-------------------:|
 cell | center-align        | right-align        |
+
+Test link to [test_file](test_file.md).
