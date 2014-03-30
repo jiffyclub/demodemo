@@ -3,8 +3,8 @@
 touch root1.txt
 touch root2.txt
 mkdir -p dir1
-touch dir1-1.txt
-touch dir1-2.txt
+touch dir1/dir1-1.txt
+touch dir1/dir1-2.txt
 mkdir -p dir1/dir2
 touch dir1/dir2/dir2-1.txt
 touch dir1/dir2/dir2-2.txt
