@@ -1,3 +1,3 @@
 Making the README all super-fancy.
 
-clean up!
+Cleaning up! Nice and tidy!
