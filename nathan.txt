@@ -1,1 +1,2 @@
 Hello, the sky is blue today!
+It is also kind of white!
